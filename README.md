@@ -25,6 +25,17 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 We'll use these steps to plan and develop our capstones over the next two Fridays.
 
 1. Break the UI into a Component Hierarchy
+  Project Layout MVP:
+    Home/Loading Screen with enter button to enter into the app:
+    Next Screen Shows The Full Weekends Music Schedule on one page.
+
+  Project Layout past MVP:
+    Home/Loading Screen with enter button to enter into the app:
+    Next Screen Shows a menu with options to look at artists/ workshops/ or schedules
+      This Home screen will show what artists the last artist to have played, who is playing now, and who is playin next. <- This will only work on weekend of event if all goes well.
+
+    Artist Page will be a grid layout of each artist. Picture, name, short bio, style of music, when they play. 
+
 It's more efficient to build a React app when you know what your user interface will look like. This allows us to anticipate what components we need, what their relationships will be, and where we'll later lift state.
 
 Explore how you'll lay out your capstone. Ask yourself "What experience do I want for my user?" Let this answer guide you in planning the project's appearance and layout. This can be as little as whiteboard drawings, or as much as mocking the site with outside tools. Consider what routes you'll use, and where different information and features should appear. Because your component structure depends on your UI, each portion of that UI should be planned before moving on.
