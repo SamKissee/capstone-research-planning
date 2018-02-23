@@ -60,15 +60,3 @@ Using your component tree diagram, build a static version of the app using only 
 Before advancing, add a link to your static site's repo to your planning repo.
 3. Identify the Minimum (But Complete!) Representation of UI State
 Now that your application is more than just user stories, carefully consider how you'll organize its state. Outline what state slices you'll need, and how they'll be structured. Be careful here; incorrectly structured state can later lead to tricky issues.
-
-Add a list of state slices your application requires and how they will be structured to your planning repo before moving to the next step.
-4. Identify Where State Should Live (AKA Lifting State)
-Then, determine where you'll lift this state. After that, refactor your tree of static components to include these state values in the locations you identified. Remember, even if you'll later use Redux the rules of lifting state still apply.
-
-Before advancing identify where your state will be lifted in your planning repo. You could do this in a list, by adding indicators to your component diagram, or any other format. Then, add that state to your static project.
-5. Inverse Data Flow (ie: basically everything else)
-What the article calls "inverse data flow" is actually the process of integrating all other backend/business logic into your UI. If you've followed these steps carefully, your UI will be ready for this.
-
-But do not tackle this until all previous steps are complete! It may be tempting, but this process exists in this order because it's decidedly the most intuitive, efficient way to develop React projects.
-
-Also, keep in mind we don't expect you to complete your entire capstone before next Friday! You'll have all of week 5 to continue integrating "inverse data flow" and all other tools and features your project needs.
