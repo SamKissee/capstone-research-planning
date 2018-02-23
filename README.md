@@ -51,12 +51,4 @@ We'll use these steps to plan and develop our capstones over the next two Friday
   Workshop will be a grid layout of all the workshops in order of when they will be happening, they will have a brief description of what the workshop is about and who is teaching it and when and where it will be happening.
 
   ![KMG IMAGE](Images/KMF.jpg)
-After outlining a layout/design you're happy with, sketch out the corresponding component structure in a diagram.
-
-Add the visual representation of your layout/appearance and a component tree diagram to your repo before advancing.
-2. Build a Static Version
-Using your component tree diagram, build a static version of the app using only functional components. Hard-code any data you plan on eventually receiving from APIs, databases, Redux, or other sources for now.
-
-Before advancing, add a link to your static site's repo to your planning repo.
-3. Identify the Minimum (But Complete!) Representation of UI State
-Now that your application is more than just user stories, carefully consider how you'll organize its state. Outline what state slices you'll need, and how they'll be structured. Be careful here; incorrectly structured state can later lead to tricky issues.
+  ![KMG IMAGE](Images/KMFLayout.png)
