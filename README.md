@@ -4,7 +4,9 @@
 
 ###Project’s Purpose or Goal: Allow offline access to schedule and activities
 
+color code #44fbbb
 
+s
 
 List the absolute minimum features the project requires to meet this purpose or goal:
 
