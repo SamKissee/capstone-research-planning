@@ -51,4 +51,9 @@ We'll use these steps to plan and develop our capstones over the next two Friday
   Workshop will be a grid layout of all the workshops in order of when they will be happening, they will have a brief description of what the workshop is about and who is teaching it and when and where it will be happening.
 
   ![KMG IMAGE](Images/KMF.jpg)
+
+
   ![KMG IMAGE](Images/KMFLayout.png)
+
+
+  ![KMG IMAGE](Images/componenttree.png)
