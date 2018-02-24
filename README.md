@@ -57,3 +57,7 @@ We'll use these steps to plan and develop our capstones over the next two Friday
 
 
   ![KMG IMAGE](Images/componenttree.png)
+
+
+  Static Build Screen Shot of IOS Simulator
+  ![Screenshot](Images/screenshot1.png)
