@@ -5,9 +5,12 @@
 ###Project’s Purpose or Goal: Allow offline access to schedule and activities
 
 color code
+white: #FFFFFF
+green: #44fbbb
+blue: #170C53
+dark grey: #484041
+light grey: #ADA8B6
 
-green #44fbbb
-purple text #170c53
 rectangle color #009fee
 
 List the absolute minimum features the project requires to meet this purpose or goal:
