@@ -159,6 +159,22 @@ export const artists = [
     "picture": Images.devinkroes,
     "link": "https://soundcloud.com/devinkroesmusic"
   },
+  {
+    "name": "Luke Mandala",
+    "bio": "Luke's deep passion with music was ignited at the age 14 with the open minded underground electronic scenes of 1998 - and that was the year he started to DJ. In 2007 Luke started releasing his own music and now has hundreds of songs released with a large number of the biggest labels in the world - Traum, Selador, Desert Hearts, Tulipa, Desert Trax, Merkaba Music, Addictech, Books Shade Music. With Luke’s dynamic performances, depending on the crowd, you may encounter an eclectic mix of global sounds from the genres of techno/house, downtempo dance music, and chill out. The music is intentionally part of the massive movement of mind opening dance floors transforming the planet, and it has flown Luke to many continents around the planet to play music. It speaks to the heart and flows through intense emotive movements, flying through the cosmos or the deepest primal caves with a focus on play, inspiration, and unification. Activated Recordings (Beatport) was launched by Luke in November 2008 with a large roster of huge artists, in recent years it has been mainly for releases Luke’s music although demos are welcome.",
+    "genre": "PsyBass or House/Techno",
+    "location": "Eugene, OR",
+    "picture": Images.lukeMandala,
+    "link": "https://soundcloud.com/luke-mandala"
+  },
+  {
+    "name": "Michael Manahan",
+    "bio": "Hailing from Seattle, Washington, Michael Manahan brings DJ and live sets that are influenced by cutting edge electronic styles and traditional sounds. This DJ, performer, producer, and space cowboy is an innovator and mainstay of the Pacific Northwest and the West Coast Festival culture. Currently residing as the Lead Producer at Starborne Shows, Lead Producer at Chance of Rain Festival, Lead Producer of Cascadia Festival, Co-Owner of the Re-bar (Seattle Theatre/Night Club) and Partner at Hunt & Gather Records. With Singles and Remixes on Hunt & Gather, Uniting Souls Music, Recovery Tech, Activated Records and over 20 years behind the dex, his performances always up the love!",
+    "genre": "House/Techno",
+    "location": "Seattle, WA",
+    "picture": Images.manahan,
+    "link": "https://soundcloud.com/michael-manahan"
+  },
 
 
 
