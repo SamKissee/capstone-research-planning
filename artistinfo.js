@@ -1,5 +1,13 @@
 export const artists = [
   {
+    "name": "Kissee",
+    "bio": "HEY! I made this APP! Thanks for downloading and checking it out! - Producer from Boise,ID , putting my own spin on Melodic Deep Bass Music. My goal with my productions and sets is to make you feel the music. Sonically moving you and your emotions with each beat. ",
+    "genre": "Wave/Melodic/Grime/Halftime",
+    "location": "Boise, ID",
+    "picture": Images.kissee,
+    "link": "https://soundcloud.com/kissee"
+  },
+  {
     "name": "Longwalk Shortdock",
     "bio": "Longwalkshortdock esentially started the first time Dave King heard gritty electronic music in early eighties videogames. Strongly influenced by these sounds and melodys, Dave started recording and looping segments as a child. He also got a taste for sampling and recording; taping segments of his piano practice to fool his parents into thinking he was practicing in the other room when he was really playing nintendo. Currently, a veteran of sound design and electronic music production for well over a decade, Longwalkshortdock's music has stepped into a genre of its own",
     "genre": "Electro",
@@ -64,6 +72,38 @@ export const artists = [
     "link": "https://soundcloud.com/the-librarian"
   },
   {
+    "name": "Tara Brooks - Desert Hearts",
+    "bio": "There is a line where the dark fuses with the light, the surreal with the sublime, the graceful with the powerful; it is within this line that Tara Brooks has carved out her truly distinct sound. Whether playing at an intimate club, a dark underground warehouse, a packed festival or a magical sunrise deep in the Burning Man Playa, Tara's music envelopes the crowd, stirring them with deep grooves, hypnotic & trippy rhythms, acidy, soulful, and haunting melodies. Behind the decks, her passion and love for music is contagious.",
+    "genre": "Techno/Tech House",
+    "location": "Los Angeles, CA",
+    "picture": Images.tarabrooks,
+    "link": "https://soundcloud.com/tarabrooksmusic"
+  },
+  {
+    "name": "Marbs - Desert Hearts",
+    "bio": "The sun fades, the last glitter trails of light hit the shimmering and spinning dusty desert disco ball. A throng of dedicated and debauched hard partying Marbie’s Barbies hurtle their way towards center stage (really…they’re Barbies), educated party-goers make their way to the dance floor, no questions asked, while whispers of King of Darkness, crazy house and techno, psychedelic vibes spread through the new night sky. The first melodic notes travel the space, ethereal beauty pouring from the stacked Funktion speakers, waving its way through the crowd. Your eyes close, your body grooves to the sounds and the beats and the thuds of the tech house that is now expertly laid out for all to enjoy. Dark and driving, thumping techno is paired with mystical, beautiful, melodic house. That passionately and expertly paired genre bending style can only mean one thing. Marbs has taken the decks.",
+    "genre": "Techno/Tech House",
+    "location": "San Diego, CA",
+    "picture": Images.marbs,
+    "link": "https://soundcloud.com/marbs"
+  },
+  {
+    "name": "Porkchop - Desert Hearts",
+    "bio": "Don’t be mislead by the light-hearted name, Porkchop is a man who takes partying very seriously. David Leon, as he is otherwise known, is the wildcard of Desert Hearts, the San Diego-bred crew of DJs and rabble-rousers tearing up the underground with deep, dark, and weird house and techno.",
+    "genre": "Techno/Tech House",
+    "location": "San Diego, CA",
+    "picture": Images.porkchop,
+    "link": "https://soundcloud.com/porkchop-deserthearts"
+  },
+  {
+    "name": "Evan Casey - Desert Hearts",
+    "bio": "Dark, sinister, and deep, Evan Casey has carved out a name for himself by owning the latest hours of your favorite parties. Casually adorned with a devilish grin and always looking fly, the Southern California native is known for his ability to reel in his dance floor and keep it captivated with his unmistakeable sound and driving undertones. But don’t let the all too common “seriousness” of techno fool you, this Desert Hearts ambassador brings a light-hearted atmosphere wherever he goes… and you’ll be quick to notice the dance floor finds the vibe to match.",
+    "genre": "Techno/Tech House",
+    "location": "San Diego, CA",
+    "picture": Images.evanCasey,
+    "link": "https://soundcloud.com/evancaseymusic"
+  },
+  {
     "name": "spacegeishA",
     "bio": "This Philly native and San Francisco resident pushing the limits of genres including glitch, glitch-hop, halftime, psybass, breakbeat, dubstep, grime, progressive trance, drum & bass, and more. Doubling as the Label Director at Street Ritual and a Label DJ for Shanti Planti; her taste is refined to cutting edge mid and high tempo psychedelic bass music. With a release catalogue of over a hundred albums, she makes it her mission to showcase producers from USA, Australia, Canada, France, Germany, India, and more. spacegeishA's sole mission is to connect the dots of the underground throughout the globe.",
     "genre": "Psybass/Halftime",
@@ -89,11 +129,37 @@ export const artists = [
   },
   {
     "name": "Goopsteppa",
-    "bio": "Bio Coming Soon",
-    "genre": "Psychedelic/Downtemp",
+    "bio": "Goopsteppa is Montreal raised Producer/Dj/Artist Alex E. Fascinated by music, arts and their effects on people from an early age, he was introduced to Djing and electronic music culture in 2007. After many years of performing as a DJ, he started releasing his own musical creations in the early spring of 2013, making an instant impression on the scene with his blend of futuristic melodic bass music, subversive soundscapes, captivating beats and surreal textures. This lead to an appearance on Seattle based Mycelium Music, followed by releases on the Luminosity Project winter solstice compilation and an EP on bay area’s Street Ritual Records. After appearing at various events last summer throughout western canada, as well as Austin, Texas and at Burning Man’s Fractal Planet, he started developing a name for himself and a network of friends, fellow artists and promoters.",
+    "genre": "Deep Melodic Bass",
     "location": "Canada",
     "picture": Images.goopsteppa,
     "link": "https://soundcloud.com/goopsteppa"
   },
+  {
+    "name": "Ives",
+    "bio": "Stretching our imaginations to create extreme adventures into the depths of sound, it's time to fall in wonder again",
+    "genre": "Space Bass",
+    "location": "Nashville, TN",
+    "picture": Images.ives,
+    "link": "https://soundcloud.com/ivesbass"
+  },
+  {
+    "name": "Djedi",
+    "bio": "Djedi (pronounced Jedi) is a San Francisco based DJ/producer, owner of the sacred geometry crystal-infused clothing line “Original Language,” and co-founder of a conscious living collective, called “The Center SF”– a community space for education, healing, and special events. Originally from New York, he was consumed and inspired by West Coast electronic artists upon moving to California in 2009. With an educational background in philosophy, religion, cosmology and consciousness, he has learned to see the world through a geometric vibrational framework, making music a powerful tool for transformative experiences of body, mind and spirit. Spending countless hours meticulously selecting only the finest quality tunes, delivering to the dance floor a genre of music described as “Laser Soul.” That is, bass music with each track having its own personality, character and emotive quality weaved together into a truly captivating sound experience",
+    "genre": "WAVE",
+    "location": "San Francisco, CA",
+    "picture": Images.djedi,
+    "link": "https://soundcloud.com/djedimusic"
+  },
+  {
+    "name": "Devin Kroes",
+    "bio": "Devin Kroes is an electronic music producer and multi instrumentalist with a desire to awaken and inspire his listeners. He seeks to sonically recreate the beauty of the world around him with squishy bass and sultry strings. His music seeks to create a sense of familiarity while transporting the listener into the depths of the unknown.",
+    "genre": "World Bass/Glitch",
+    "location": "Oakland, CA",
+    "picture": Images.devinkroes,
+    "link": "https://soundcloud.com/devinkroesmusic"
+  },
+
+
 
 ]
