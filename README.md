@@ -66,3 +66,6 @@ We'll use these steps to plan and develop our capstones over the next two Friday
 
   Static Build Screen Shot of IOS Simulator
   ![Screenshot](Images/screenshot1.png)
+
+
+Building app Icon 
