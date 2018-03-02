@@ -33,10 +33,67 @@ export const artists = [
   },
   {
     "name": "Five Alarm Funk",
-    "bio": "Dirtwire is David Satori of Beats Antique, Evan Fraser of Bolo and Mark Reveley of Jed and Lucia. Dirtwire sits on the front porch of Americana’s future, conjuring up a whirlwind of sound using traditional instrumentation, world percussion, soundscapes, and electronic beats. Comprised of David Satori (Beats Antique), Evan Fraser (Hamsa Lila; Bolo), and Mark Reveley (Jed and Lucia), each performance brings both band and audience to a mysterious crossroads of beats, blues, African, Asian, and South American sounds. The result is a rebirth of Americana and a post-millennial psychedelic journey to downhome goodness.",
-    "genre": "World Bass",
-    "location": "Oakland, CA",
-    "picture": Images.olivier,
-    "link": "https://soundcloud.com/dirtwire"
+    "bio": "Five Alarm Funk amps up the heat with an ambitious project that involves raiding their own catalog and inviting some of their heroes to join them. Long known for their percussive gang vocals, they’ve have amassed a library of largely instrumental, chant-punched performances. The first of these is a match they might only have dreamed of when they were just starting to rock those house parties.",
+    "genre": "Funk",
+    "location": "Vancouver, Canada",
+    "picture": Images.fiveAlarm,
+    "link": "https://soundcloud.com/fivealarmfunk"
   },
+  {
+    "name": "Thelem",
+    "bio": "UK artist Thelem has secured himself as a humbling and experimental producer within the wide spectrum of electronic music. The genre morphing latest release ‘Ninety 3 EP’ features notable stylistic elements from hip hop, grime, Dubstep and trap. His well crafted dynamics, choice instrumentation and considered beats coupled with distinctive collaborations with T-Man bring an all together weighed and diversified direction for Thelem, focusing on a new characterising flavour and distinguishing progressive sound.",
+    "genre": "Halftime/Grime",
+    "location": "Los Angeles/UK",
+    "picture": Images.thelem,
+    "link": "https://soundcloud.com/thelem"
+  },
+  {
+    "name": "MatTheAlien",
+    "bio": "Since the age of 14 Mat has been mixing , scratching and making mixes - beats , spanning many genres , tempos and styles , but always having one thing in common - heavy beats and bass lines with lots of cuts and turntable tricks thrown in.",
+    "genre": "Bass/Turntablism",
+    "location": "Canada",
+    "picture": Images.matTheAlien,
+    "link": "https://soundcloud.com/matthealien"
+  },
+  {
+    "name": "The Librarian",
+    "bio": "Andrea Graham, aka The Librarian, is a bass music DJ and producer from the Pacific Northwest. Her sets move through European dubstep, grime, footwork, jungle, dancehall and halftime drum and bass, tying everything together with low end frequencies. She is the co-founder and chief music curator of Bass Coast Music Festival, a member of West Coast bass music crew Lighta! Sound, and the co-host of a bi-monthly radio show with Mat the Alien on Sub.fm.",
+    "genre": "Grime/Halftime",
+    "location": "Canada",
+    "picture": Images.librarian,
+    "link": "https://soundcloud.com/the-librarian"
+  },
+  {
+    "name": "spacegeishA",
+    "bio": "This Philly native and San Francisco resident pushing the limits of genres including glitch, glitch-hop, halftime, psybass, breakbeat, dubstep, grime, progressive trance, drum & bass, and more. Doubling as the Label Director at Street Ritual and a Label DJ for Shanti Planti; her taste is refined to cutting edge mid and high tempo psychedelic bass music. With a release catalogue of over a hundred albums, she makes it her mission to showcase producers from USA, Australia, Canada, France, Germany, India, and more. spacegeishA's sole mission is to connect the dots of the underground throughout the globe.",
+    "genre": "Psybass/Halftime",
+    "location": "San Francisco, CA",
+    "picture": Images.spacegeisha,
+    "link": "https://soundcloud.com/spacegeisha"
+  },
+  {
+    "name": "Frameworks",
+    "bio": "Lush, symphonic compositions full of delicate strings, pulsing bass, and thrilling vocals litter the catalog of Matthew James Brewer, the Manchester-based performer and producer known as Frameworks. With a masterful LP, two EP's, and another on the way in 2017, Brewer has conquered massive festival stages in the United States and toured the UK with his label chief Emancipator. Returning to Loci Records for KINGS due out this year, Frameworks follows up Branches, a stunning, sorrowful, and uplifting set of tracks that emerged in 2015.",
+    "genre": "Downtempo/HipHop",
+    "location": "Manchester, UK",
+    "picture": Images.frameworks,
+    "link": "https://soundcloud.com/frameworks"
+  },
+  {
+    "name": "Detox Unit",
+    "bio": "Bio Coming Soon",
+    "genre": "Psychedelic/HipHop",
+    "location": "Austin, TX",
+    "picture": Images.detoxunit,
+    "link": "https://soundcloud.com/detoxunit"
+  },
+  {
+    "name": "Goopsteppa",
+    "bio": "Bio Coming Soon",
+    "genre": "Psychedelic/Downtemp",
+    "location": "Canada",
+    "picture": Images.goopsteppa,
+    "link": "https://soundcloud.com/goopsteppa"
+  },
+
 ]
