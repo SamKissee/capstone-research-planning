@@ -68,4 +68,13 @@ We'll use these steps to plan and develop our capstones over the next two Friday
   ![Screenshot](Images/screenshot1.png)
 
 
-Building app Icon 
+Building app Icon
+
+ICON Creation
+![Icon](Images/kmficon.png)
+
+![Icon](Images/KMFIcon1.png)
+
+![Icon](Images/KMFIcon2.png)
+
+![Icon](Images/KMFICON3.png)
